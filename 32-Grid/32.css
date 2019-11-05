@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    height: 100vh;
+
+    display: grid;
+    background-color: black;
+    color: red;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.Ja {
+    background-color: #0f0;
+}
+
+.Naam {
+    background-color: #0f2
+}
+
+.Hei {
+    background-color: #0f3
+}
+
+.Da {
+    background-color: #0f4
+}
+
+.Ano {
+    background-color: #0f5
+}
+
+.Jah {
+    background-color: #0f6
+}
+
+.Kylla {
+    background-color: #0f7
+}
+
+.Oui {
+    background-color: #0f8
+}
+
+.Nai {
+    background-color: #0f9;
+    height: 25vh
+}
+
+.Ae {
+    background-color: #0fa;
+}
+
+.Ken {
+    background-color: #0fb
+}
+
+.Haan {
+    background-color: #0fc
+}
+
+.Igen {
+    background-color: #0fd
+}
+
+.Si {
+    background-color: #0fe
+}
+
+.Hai {
+    background-color:  #0ff
+}
+
+.Ye {
+    background-color: #1ff
+}
+
+.Etiam {
+    background-color: #2ff
+}
+
+.Taip {
+    background-color: #3ff
+}
+
+.Shi {
+    background-color: #4ff
+}
+
+.Tak {
+    background-color: #5ff
+}
+
+.Sbohem {
+    background-color: #6ff
+}
+
+.Sim {
+    background-color: #7ff
+}
+
+.Ham {
+    background-color: #8ff
+}
+
+.Ho {
+    background-color: #9ff
+}
+
+.Am {
+    background-color: #aff
+}
+
+.Chi {
+    background-color: #bff
+}
+
+.Evet {
+    background-color: #cff
+}
+
+.Vang {
+    background-color: #dff
+}
+
+.Le {
+    background-color: #eff
+}
+
+.Yebo {
+    background-color: #fff
+}
+
+.VV {
+    background-color: #fef
+}
+
+.Baeleh {
+    background-color: #fdf
+}
+
+.Dschii-haan {
+    background-color: #fcf
+}
+
+a {
+    color: orange
+}

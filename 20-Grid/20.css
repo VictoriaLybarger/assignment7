@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    height: 100vh;
+
+    display: grid;
+    background-color: black;
+    color: white;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 25px;
+}
+
+.See-Ya {
+    background-color: #00f;
+    height: 25vh;
+}
+
+.Goodbye {
+    background-color: #00e
+}
+
+.Bidaya {
+    background-color: #00d
+}
+
+.Joigin {
+    background-color: #00c
+}
+
+.Farvel {
+    background-color: #00b
+}
+
+.Au-Revoir {
+    background-color: #40f;
+    height: 25vh;
+}
+
+.Yasou {
+    background-color: #50f
+}
+
+.Aloha {
+    background-color: #60f
+}
+
+.Namaste {
+    background-color: #70f
+}
+
+.Slan {
+    background-color: #80f
+}
+
+.Arrivederci {
+    background-color: #90f;
+    height: 25vh;
+}
+
+.Annyeong {
+    background-color: #a0f
+}
+
+.Vale {
+    background-color: #b0f
+}
+
+.Atsiprasau {
+    background-color: #c0f
+}
+
+.Adeus {
+    background-color: #d0f
+}
+
+.Alweda {
+    background-color: #e0f;
+    height: 22.5vh;
+}
+
+.Zdravo {
+    background-color: #f0f
+}
+
+.Adios {
+    background-color: #f3f
+}
+
+.Totsiens {
+    background-color: #f4f
+}
+
+.Sbohem {
+    background-color: #f5f
+}
+
+a {
+    color: white
+}

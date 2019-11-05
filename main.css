@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    height: 100vh;
+
+    display: grid;
+    background-color: black;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 25px;
+}
+
+.Hi {
+    background-color: #ff0;
+    height: 48vh;
+}
+
+nav {
+    background-color: #ef0;
+}
+
+.Hey {
+    background-color: #df0;
+}
+
+.Ciao {
+    background-color: #cf0;
+}
+
+.Hola {
+    background-color: #f00;
+    height: 50vh;
+}
+
+.Hallo {
+    background-color: #e00;
+}
+
+.Marhaba {
+    background-color: #d00
+}
+
+.Bonjour {
+    background-color: #c00
+}
+
+a {
+    color: aqua;
+}
+
