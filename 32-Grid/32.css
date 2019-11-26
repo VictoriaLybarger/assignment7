@@ -3,145 +3,142 @@ body {
     height: 100vh;
 
     display: grid;
-    background-color: black;
+    background-color: rgb(83, 32, 0);
     color: red;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 
-.Ja {
-    background-color: #0f0;
+.a {
+    background-color: rgb(83, 32, 0)
 }
 
-.Naam {
-    background-color: #0f2
+.b {
+    background-color: rgb(107, 41, 1)
 }
 
-.Hei {
-    background-color: #0f3
+.c {
+    background-color: rgb(121, 46, 0)
 }
 
-.Da {
-    background-color: #0f4
+.d {
+    background-color: rgb(131, 50, 0)
 }
 
-.Ano {
-    background-color: #0f5
+.e {
+    background-color: rgb(145, 56, 1)
 }
 
-.Jah {
-    background-color: #0f6
+.f {
+    background-color: rgb(163, 63, 1)
 }
 
-.Kylla {
-    background-color: #0f7
+.g {
+    background-color: rgb(182, 70, 0)
 }
 
-.Oui {
-    background-color: #0f8
+.h {
+    background-color: rgb(202, 79, 2)
 }
 
-.Nai {
-    background-color: #0f9;
+.i {
+    background-color: rgb(78, 43, 21);
     height: 25vh
 }
 
-.Ae {
-    background-color: #0fa;
+.j {
+    background-color: rgb(102, 51, 20);
 }
 
-.Ken {
-    background-color: #0fb
+.k {
+    background-color:  rgb(119, 57, 18);
 }
 
-.Haan {
-    background-color: #0fc
+.l {
+    background-color: rgb(129, 63, 22);
 }
 
-.Igen {
-    background-color: #0fd
+.m {
+    background-color: rgb(145, 71, 25);
 }
 
-.Si {
-    background-color: #0fe
+.n {
+    background-color: rgb(160, 77, 25);
 }
 
-.Hai {
-    background-color:  #0ff
+.o {
+    background-color:  rgb(184, 87, 28);
 }
 
-.Ye {
-    background-color: #1ff
+.p {
+    background-color: rgb(204, 99, 34);
 }
 
-.Etiam {
-    background-color: #2ff
+.q {
+    background-color: rgb(77, 51, 35);
 }
 
-.Taip {
-    background-color: #3ff
+.r {
+    background-color: rgb(97, 62, 40);
 }
 
-.Shi {
-    background-color: #4ff
+.s {
+    background-color: rgb(117, 73, 45);
 }
 
-.Tak {
-    background-color: #5ff
+.t {
+    background-color: rgb(128, 80, 51);
 }
 
-.Sbohem {
-    background-color: #6ff
+.u {
+    background-color: rgb(141, 88, 56);
 }
 
-.Sim {
-    background-color: #7ff
+.v {
+    background-color: rgb(155, 94, 57);
 }
 
-.Ham {
-    background-color: #8ff
+.w {
+    background-color: rgb(182, 113, 69);
 }
 
-.Ho {
-    background-color: #9ff
+.x {
+    background-color: rgb(204, 123, 72);
 }
 
-.Am {
-    background-color: #aff
+.y {
+    background-color: rgb(77, 63, 54);
 }
 
-.Chi {
-    background-color: #bff
+.z {
+    background-color: rgb(95, 75, 63);
 }
 
-.Evet {
-    background-color: #cff
+
+.aa {
+    background-color: rgb(110, 84, 67);
 }
 
-.Vang {
-    background-color: #dff
+.bb {
+    background-color: rgb(126, 97, 80);
 }
 
-.Le {
-    background-color: #eff
+.cc {
+    background-color: rgb(141, 108, 88);
 }
 
-.Yebo {
-    background-color: #fff
+.dd {
+    background-color: rgb(150, 114, 92);
 }
 
-.VV {
-    background-color: #fef
+.ee {
+    background-color: rgb(177, 131, 103);
 }
 
-.Baeleh {
-    background-color: #fdf
-}
-
-.Dschii-haan {
-    background-color: #fcf
+.ff {
+    background-color: rgb(199, 149, 118);
 }
 
 a {
-    color: orange
+    color: rgb(199, 149, 118);
 }

@@ -2,44 +2,47 @@ body {
     margin: 0;
     height: 100vh;
 
+    text-decoration: none;
+    color:rgb(170, 118, 5);
+
     display: grid;
-    background-color: black;
+    background-color: rgb(218, 194, 143);
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 25px;
 }
 
-.Hi {
-    background-color: #ff0;
+.welcome {
+    background-color: rgb(214, 188, 132);
     height: 48vh;
 }
 
 nav {
-    background-color: #ef0;
+    background-color: rgb(216, 186, 121);
 }
 
-.Hey {
-    background-color: #df0;
+.one {
+    background-color: rgb(211, 173, 92);
 }
 
-.Ciao {
-    background-color: #cf0;
+.two {
+    background-color: rgb(211, 165, 67);
 }
 
-.Hola {
-    background-color: #f00;
+.three {
+    background-color: rgb(209, 159, 52);
     height: 50vh;
 }
 
-.Hallo {
-    background-color: #e00;
+.four {
+    background-color: rgb(204, 149, 31);
 }
 
-.Marhaba {
-    background-color: #d00
+.five {
+    background-color: rgb(204, 143, 11);
 }
 
-.Bonjour {
-    background-color: #c00
+.six {
+    background-color: rgb(198, 135, 0);
 }
 
 a {
